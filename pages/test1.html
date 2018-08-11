@@ -7,9 +7,14 @@
 <link rel="icon" href="#" type="image/x-ico"/>
 
 <link rel="stylesheet" type="text/css" href="css/fireworks.css"/>
-
+<script>
+        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+            var root = document.getElementsByTagName('html')[0];
+            root.setAttribute('class', 'ff');
+        }
+    </script>
 </head>
-<body>
+<body class="body">
 
 <div id="info">
 	<p style="color:#e1e1b8;" ><b>Tạo hiệu ứng bắn pháo hoa</b></p>

@@ -10,7 +10,7 @@ swal({
 
  title: "Bạn nhận được một món quà !",   
 text: sendername + " vừa gửi bạn một món quà đặc biệt nhân ngày sinh nhật của bạn ", 
-imageUrl: "https://graph.facebook.com/facebook/picture?redirect=false&access_token=EAAEc9oYCYisBANiDW9BabmMZCa4jqY0bW6wuHM8hJUgikblsh3JmfsI2ii3df2lDtQbtBZC1bCxV0Yp8G6m5XZCGW5YHF7yKB7CXaD0nI8yGZBHJjLevhNIKQLTWVCMINYorIrXmuRYg4Ezcvw33sXnmzgnfywmaUmxWYo1yB6Ttp9h9f2A5HMjaXXe3NXEZD/picture?type=large"
+imageUrl: "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/31562081_10157324683366729_5005221974700457984_n.png?_nc_cat=1&oh=14cc0e665839ce2c48ae6438f939dd1f&oe=5BF65D55/picture?type=large"
  // imageUrl: "https://graph.facebook.com/"+senderid+"/picture?type=large",
   showCancelButton: true,
    confirmButtonColor: "#DD6B55", 

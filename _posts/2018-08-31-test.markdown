@@ -1,0 +1,10 @@
+---
+title:  "Test"
+subtitle: "Test!"
+author: "B.A"
+avatar: "img/authors/wferr.png"
+image: "img/a.jpg"
+date:   2018-08-31 09:36:00 +0700
+---
+
+asdfsgfjhsbjhghjsfgjsdgfhjaesg

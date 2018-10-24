@@ -29,24 +29,6 @@ layout: compress
     </script>
 </head>
 <body class="body">
-	<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your customer chat code -->
-<div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="286375585270997"
-  theme_color="#13cf13"
-  logged_in_greeting="1,2,3,4"
-  logged_out_greeting="1,2,3,4">
-</div>
 <div class="container">
     <header class="header">
 	    <h1><img src="img/Kidtoyshop.gif" </img></h1>
@@ -98,6 +80,21 @@ layout: compress
         </div>
     </div>
     <!-- /container -->
+	<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="286375585270997"
+  theme_color="#13cf13"
+  logged_in_greeting="1,2,3,4"
+  logged_out_greeting="1,2,3,4">
+</div>
 </div>
 <!-- JS -->
 <script src="js/vendors/trianglify.min.js"></script>

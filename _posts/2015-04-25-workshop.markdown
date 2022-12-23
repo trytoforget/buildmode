@@ -8,7 +8,6 @@ layout: post
 category: posts
 customjs:
  - https://trytoforget.github.io/kidtoyshop/js/Magnifier.js
-date:  
 ---
 <img src="https://trytoforget.github.io/kidtoyshop/img/lego/doikhaithackhoangsan435.jpg" alt="doikhaithackhoangsan" >
 <img src="https://trytoforget.github.io/kidtoyshop/img/lego/chienbinhdemninja813.jpg" alt="chienbinhdem" >

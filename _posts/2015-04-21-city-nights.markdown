@@ -4,7 +4,7 @@ subtitle: "A Beautiful shot during the night."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:
+date: 2024-08-22
 ---
 
 ### Dolor sit amet?
